@@ -5,8 +5,8 @@
   "showFirstAd":true,
   "showTestAds":false,
   "showBannerAds":true,
-  "interstitialAdUnit":"ca-app-pub-3940256099942544/1033173712",
-  "openAppAdUnitId":"ca-app-pub-3940256099942544/3419835294",
-  "bannerAdUnit":"ca-app-pub-3940256099942544/1033173712"
+  "interstitialAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Interstitial",
+  "openAppAdUnitId":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.AppOpen",
+  "bannerAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Banner"
   
 }
