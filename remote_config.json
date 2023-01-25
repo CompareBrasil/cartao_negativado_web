@@ -1,12 +1,12 @@
 {
-  "showAds":false,
-  "adsInterval":30,
+  "showAds":true,
+  "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showTestAds":false,
-  "showBannerAds":true,
-  "interstitialAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Interstitial",
-  "openAppAdUnitId":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.AppOpen",
-  "bannerAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao_credito_negativado.Banner"
+  "showBannerAds":false,
+  "interstitialAdUnit":"/22405025169,22870746737/com.comparebrasil.cartao_credito_negativado.Interstitial1",
+  "openAppAdUnitId":"/22405025169,22870746737/com.comparebrasil.cartao_credito_negativado.AppOpen1",
+  "bannerAdUnit":"/22405025169,22870746737/com.comparebrasil.cartao_credito_negativado.Banner1"
   
 }
